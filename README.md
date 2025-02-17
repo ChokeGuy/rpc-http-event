@@ -29,7 +29,7 @@ git clone https://github.com/your-username/rpc-http-event.git
 ### 2. **Navigate to the project directory**
 
 ```bash
-cd rpc-event-service
+cd rpc-http-event
 ```
 ### 3. **Install dependencies**
 ```bash
